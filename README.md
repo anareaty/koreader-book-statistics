@@ -1,6 +1,6 @@
 # Book statistics
 
-It is a plugin for KOReader application that enhances the possibilitees of reading statistics tracking in KOReader.
+It is a plugin for [KOReader](https://github.com/koreader/koreader) application that enhances the possibilitees of reading statistics tracking in KOReader.
 
 Mainly it allows tracking of the dates when books were finished. It also creates a new yearly progress view showing you how many books and pages you read in a year and by month.
 
