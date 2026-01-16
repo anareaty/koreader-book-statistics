@@ -1,1 +1,1 @@
-# koreader-statistics-plus
+# Book statistics
